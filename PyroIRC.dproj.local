@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/08/19 21:49:45.271.pas,C:\Users\Pyrokid\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Pyrokid\Desktop\Everything\PyroIRC\PyroIRCSrc.pas</Transaction>
+    <Transaction>2011/08/19 21:49:45.271.dfm,C:\Users\Pyrokid\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Pyrokid\Desktop\Everything\PyroIRC\PyroIRCSrc.dfm</Transaction>
+    <Transaction>2011/08/19 21:49:54.111.dproj,C:\Users\Pyrokid\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Pyrokid\Desktop\Everything\PyroIRC\PyroIRC.dproj</Transaction>
+    <Transaction>2011/09/11 15:04:14.840.pas,C:\Users\Pyrokid\Desktop\Everything\PyroIRC\Unit2.pas=C:\Users\Pyrokid\Desktop\Everything\PyroIRC\optionsSrc.pas</Transaction>
+    <Transaction>2011/09/11 15:04:14.840.dfm,C:\Users\Pyrokid\Desktop\Everything\PyroIRC\Unit2.dfm=C:\Users\Pyrokid\Desktop\Everything\PyroIRC\optionsSrc.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
